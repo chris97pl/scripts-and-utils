@@ -1,4 +1,4 @@
-e.hub.com.pl
+hub.com.pl
 smartadserver.com
-js.iplsc.com
+iplsc.com
 criteo.net
