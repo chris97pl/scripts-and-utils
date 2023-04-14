@@ -1,3 +1,4 @@
-hub.com.pl
+e.hub.com.pl
 smartadserver.com
-googlesyndication.com
+js.iplsc.com
+criteo.net
